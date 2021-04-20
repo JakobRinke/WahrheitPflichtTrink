@@ -62,7 +62,9 @@ function loadCard()
 }
 
 
-
+Array.prototype.random = function () {
+    return this[Math.floor((Math.random()*this.length))];
+  }
 function getAufgabe()
 {
     var aufgabe = aufgaben[Math.floor(Math.random() * aufgaben.length)];
@@ -71,7 +73,7 @@ function getAufgabe()
     while (p1==p2)
     {
         console.log(p2);
-        p2 = playerList[Math.floor(Math.random() * aufgaben.length)-1];
+        p2 = Math.floor(Math.random() * aufgaben.length);
     }
     return aufgabe.replace(/\[1\]/, playerList[p1]).replace(/\[2\]/, playerList[p2]);
 }
