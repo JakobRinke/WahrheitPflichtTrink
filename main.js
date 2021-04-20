@@ -58,7 +58,7 @@ function loadCard()
     setTimeout(function(){
         document.getElementById("card").style.marginLeft="0vw";
 
-    }, 300);
+    }, 600);
 }
 
 
