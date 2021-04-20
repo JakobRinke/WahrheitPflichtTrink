@@ -41,10 +41,11 @@ function startGame()
         return;
     }
     lobby.style.marginLeft="-300vw";
-    loadCard();
+    
     setTimeout(function(){
         lobby.style.visibility = "hidden";
         lobby.style.position = "absolute";
+        loadCard();
     }, 600);
     
 }
