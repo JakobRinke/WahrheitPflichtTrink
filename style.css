@@ -118,7 +118,8 @@ button:hover
 {
     width: 100%;
     position: absolute;
-    overflow-x: hidden;
+    overflow: hidden;
+
 }
 
 .card
