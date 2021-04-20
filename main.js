@@ -68,12 +68,13 @@ Array.prototype.random = function () {
 function getAufgabe()
 {
     var aufgabe = aufgaben[Math.floor(Math.random() * aufgaben.length)];
-    var p1 = Math.floor(Math.random() * aufgaben.length);
+    var p1 = Math.floor(Math.random() * (aufgaben.length-1));
     var p2 = p1;
     while (p1==p2)
     {
         console.log(p2);
-        p2 = Math.floor(Math.random() * aufgaben.length);
+        p2 = Math.floor(Math.random() * (aufgaben.length-1));
+        if (p2 >= aufgaben.length) {p2=ufgaben.length}
     }
     return aufgabe.replace(/\[1\]/, playerList[p1]).replace(/\[2\]/, playerList[p2]);
 }
