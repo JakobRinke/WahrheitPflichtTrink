@@ -1,0 +1,137 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+
+:root
+{
+    font-size: 2.5vh;
+}
+
+
+body
+{
+    height: 100vh;
+    background: linear-gradient(to bottom, #2747b2, #317efb);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: visible;
+}
+
+ul
+{
+    list-style-type: none;
+
+}
+
+.SpielerListe ul
+{
+    padding-bottom: 20%;
+
+}
+
+
+button
+{
+    font-size: 1rem;
+    display:inline-block;
+    padding:0.3em 1.2em;
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    background-color:#4eb5f1;
+    text-align:center;
+    transition: all 0.2s;
+    width: 40%;
+    margin-left:30%;
+}
+
+button:hover
+{
+    background-color:#4095c6;
+}
+
+.SpielerListe
+{
+    width: 80%;
+    transition: 600ms all;
+    
+}
+
+
+.Spieler
+{
+    color: #ddd;
+    text-align: center;
+    background-color: #2e87bb;
+    padding-top:1%;
+    padding-bottom: 1%; 
+    margin-bottom: 2%;
+    margin-left: 1%;
+    float: left;
+    width: 19%
+}
+
+#AddPlayerInput
+{
+    font-size: 1rem;
+    display:inline-block;
+    padding:0.3em 1.2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    background-color:#35a9ec;
+    text-align:center;
+    transition: all 0.2s;
+    width: 40%;
+    margin-left: 30%;;
+}
+
+#startButton
+{
+    font-size: 1rem;
+    display:inline-block;
+    padding:0.3em 1.2em;
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#ffffff;
+    background-color:#29ce00;
+    text-align:center;
+    transition: all 0.2s;
+    width: 40%;
+    margin-left:30%;
+    margin-top: 2%;;
+}
+
+.carddiv
+{
+    width: 100%;
+    position: absolute;
+    overflow-x: hidden;
+}
+
+.card
+{
+    background-color: rgb(3, 141, 26);
+    margin-left: 150vw;
+    transition: 600ms all;
+    width: 60vw;
+    height: 30vh;
+    color: white;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4%
+}
