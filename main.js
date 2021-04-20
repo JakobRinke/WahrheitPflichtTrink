@@ -81,5 +81,5 @@ function next()
     
     setTimeout(function(){
         loadCard();
-    }, 300);
+    }, 600);
 }
