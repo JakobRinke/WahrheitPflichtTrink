@@ -57,9 +57,8 @@ function loadCard()
 {
     cardContainer.innerHTML = cardPrefab.replace(/\[AUFGABE\]/, getAufgabe());
     setTimeout(function(){
-        document.getElementById("card").style.marginLeft="0vw";
-
-    }, 600);
+        document.getElementById("card").style.opacity="1";
+    }, 300);
 }
 
 
@@ -80,9 +79,9 @@ function getAufgabe()
 
 function next()
 {
-    document.getElementById("card").style.marginLeft="-150vw";
+    document.getElementById("card").style.opacity="0";
     
     setTimeout(function(){
         loadCard();
-    }, 600);
+    }, 300);
 }

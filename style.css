@@ -129,8 +129,8 @@ button:hover
 .card
 {
     background-color: rgb(3, 141, 26);
-    margin-left: 200vw;
-    transition: 600ms all;
+    opacity: 0;
+    transition: 300ms all;
     width: 60vw;
     height: 30vh;
     color: white;
