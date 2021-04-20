@@ -71,7 +71,7 @@ function getAufgabe()
     while (p1==p2)
     {
         console.log(p2);
-        p2 = playerList[Math.floor(Math.random() * aufgaben.length)];
+        p2 = playerList[Math.floor(Math.random() * aufgaben.length)-1];
     }
     return aufgabe.replace(/\[1\]/, playerList[p1]).replace(/\[2\]/, playerList[p2]);
 }
