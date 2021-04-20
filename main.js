@@ -56,7 +56,7 @@ function loadCard()
 {
     cardContainer.innerHTML = cardPrefab.replace(/\[AUFGABE\]/, getAufgabe());
     setTimeout(function(){
-        document.getElementById("card").style.marginLeft="20vw";
+        document.getElementById("card").style.marginLeft="0vw";
 
     }, 300);
 }
