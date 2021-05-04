@@ -5,5 +5,35 @@ const aufgaben = [
     "[1] spielt Schere Stein Papier gegen [2]. Der Verlierer muss 3 Schlücke trinken.",
 	"[1] muss sich drehen bis er/sie umfällt",
 	"[1] macht Armdrücken mit [2]. Der Verlierer trinkt 5 Schlücke",
-	"[1] schaut seinem linken Sitznachbar für die nächsten 3 Aufgaben in die Augen"
+	"[1] schaut seinem linken Sitznachbar für die nächsten 3 Aufgaben in die Augen",
+	"Wellentrinken! Von [1] aus im Uhrzeigersinn",
+	"[1]: Sage etwas was niemand hier weis oder trinke dein Glas aus",
+	"[1]: Imitiere ein Tier",
+	"[1] füttert die [2] mit etwas Leckerem oder beide trinken aus",
+	"[1] verbringt eine Runde mit den Füßen nach oben, Kopf nach unten.",
+	"[1] benimmt sich zwei Minuten wie ein Huhn oder  trinke 3 Schlücke",
+	"[1]: Was ist das Dümmste, für das du jemals Geld ausgegeben hast?",
+	"[1]: Wer aus dieser Runde hat den schlechtesten Klamottengeschmack?",
+	"[1]: Worüber denkst du nach, wenn du auf der Toilette sitzt?",
+	"[1]: Lese vor an wen du deine letzte Nachricht geschickt hat oder trinke 5 Schlücke",
+	"[1]: Lese die letzte Nachricht die du geschickt hast vor oder trinke aus",
+	"[1]: Was versteckst du in deinem Zimmer, von dem deine Eltern niemals erfahren dürfen?",
+	"[1]: Mit wem aus dieser Runde würdest du gern mal das Leben tauschen und warum?",
+	"[1]: Hast du schon mal Chat-Verläufe mit einer Person in diesem Raum gescreenshottet und an jemand anderen weitergeschickt?",
+	"[1] schreit das erste Wort, das ihm/ihr in den Kopf kommt laut heraus!",
+	"[1] redet drei Runden mit einem Akzent! oder trinkt 3 Schlücke",
+	"[1]: Führe eine Unterhaltung mit einem Stuhl oder Tisch und tu so, als ob er antworten würde. Du kannst natürlich auch 4 Schlücke trinken, aber das wäre lame",
+	"Jeder muss [1] mit einem Wort beschreiben oder 2 Schlücke trinken",
+	"[1] erklärt jetzt den anderen etwas wovon er keine Ahnung hat",
+	"[1] muss wenn anwesend das Haustier streicheln wenn keine Haustier da ist, dann trink einen Schluck",
+	"Macht ein Gedicht (Paarreim) im Uhrzeigersinn. Wer nichts sagen kann oder es nicht reimt muss 4 trinken. [1] beginnt",
+	"[1]: Was ist das Schlimmste, was du je jemanden angetan hast?",
+	"[1]: Hast du schon mal von [2] geträumt, wenn ja was",
+	"[1]: Was war der schlimmste Albtraum",
+	"[1]: Wenn du schon mal perverse Gedanke mit [2] hattest trink 2",
+	"[1]: Wer aus der Runde würde am ehsten was mit jemandem seines Geschlechts anfangen",
+	"[1]: Wenn du jemanden töten müsstest wer wäre es"
+	"[1]: Wen würdest du heiraten"
+	"[1]: Mit wem teilst du die meisten Gemeinsamkeiten"
+	"[1]: Hast du schon mal geträumt du hättest mit einer Person in diesem Raum was ernstes gehabt und du fandest es nice"
 ]
