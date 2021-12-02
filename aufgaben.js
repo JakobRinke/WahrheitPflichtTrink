@@ -32,8 +32,8 @@ const aufgaben = [
 	"[1]: Was war der schlimmste Albtraum",
 	"[1]: Wenn du schon mal perverse Gedanke mit [2] hattest trink 2",
 	"[1]: Wer aus der Runde würde am ehsten was mit jemandem seines Geschlechts anfangen",
-	"[1]: Wenn du jemanden töten müsstest wer wäre es"
-	"[1]: Wen würdest du heiraten"
-	"[1]: Mit wem teilst du die meisten Gemeinsamkeiten"
+	"[1]: Wenn du jemanden töten müsstest wer wäre es",
+	"[1]: Wen würdest du heiraten",
+	"[1]: Mit wem teilst du die meisten Gemeinsamkeiten",
 	"[1]: Hast du schon mal geträumt du hättest mit einer Person in diesem Raum was ernstes gehabt und du fandest es nice"
 ]
